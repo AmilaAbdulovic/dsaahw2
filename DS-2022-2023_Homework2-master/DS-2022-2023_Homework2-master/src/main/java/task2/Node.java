@@ -13,7 +13,7 @@ public class Node<Key extends Comparable<Key>, Value> {
         this.isRed = isRed;
     }
 
-    // Getters and setters
+  
 
     public Key getKey() {
         return key;
